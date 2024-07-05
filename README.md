@@ -1,5 +1,7 @@
 ## Roberto 👋😄 
-
+- I'm a Enginner Robotic of UFC (University of Ceará)
+- I'm a GRC Control Leader
+- 22 years
 <!--
 **Elberto15/Elberto15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +29,13 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/robertojeovan/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+<div align="center">
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elberto15&layout=compact&lengs_count=16&theme=dark"/>
+  
+</div>
+<div align ="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Elberto15&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
