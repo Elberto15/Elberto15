@@ -6,6 +6,8 @@
 
 Somos um grupo de robótica que nasceu da necessidade de representar a UFC (Universidade Federal do Ceará) em competições regionais, nacionais e internacionais, já que as maiores universidades, tanto no Brasil quanto no exterior, possuem grupos com foco em competições de robótica. Fundado em 28/03/2023, fomos oficializados como programa de extensão pela Pró-Reitoria de Extensão em setembro do mesmo ano. Atualmente, contamos com 25 membros, incluindo o docente orientador. Todos os discentes presentes no programa são alunos de diversas áreas da engenharia.
 
+<image src="https://github.com/Elberto15/Elberto15/blob/main/assets/o%20grc.jpeg" width = "500px" />
+<div align="left">
 
 
   <h2> Nossa Missão </h2> 
