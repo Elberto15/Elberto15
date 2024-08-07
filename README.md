@@ -11,7 +11,10 @@ Somos um grupo de robótica que nasceu da necessidade de representar a UFC (Univ
   <h2> Nossa Missão </h2> 
   Nosso objetivo é reunir estudantes interessados em competições de robótica e promover a aplicação prática do conhecimento acadêmico. Trabalhamos para expandir as possibilidades na área de robótica, aproveitando seu potencial no mercado e elevando a reputação da Universidade Federal do Ceará (UFC) como um centro de excelência na formação de profissionais altamente capacitados.
 Nosso compromisso inclui desenvolver projetos que evidenciem a qualidade técnica dos alunos e usar esses projetos como plataformas de teste para os laboratórios de pesquisa e desenvolvimento da UFC. Além disso, buscamos introduzir a robótica para alunos do ensino fundamental e médio por meio de parcerias com bolsistas do Programa de Educação Tutorial, Iniciação Científica, Monitoria e membros de Centros Acadêmicos.
+
+
 </div>
+<image src="https://github.com/Elberto15/Elberto15/blob/main/assets/miss%C3%A3o.jpeg" width = "800px" height ="500px"/>
 <div align="left">
 
 ## Áreas de Atuação 
@@ -31,6 +34,7 @@ Na área de educação, o GRC participa de palestras e seminários em escolas de
 </div >
 
 <div align="center">
+  <image src="https://github.com/Elberto15/Elberto15/blob/main/assets/Adauto%20Bezerra.png" width = "250px"/><image src="https://github.com/Elberto15/Elberto15/blob/main/assets/cesar%20carls.jpeg" width = "500px"/>
 ** foto do projeto ou etc
 fotos do cesar carls.
 </div >
