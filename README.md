@@ -37,16 +37,11 @@ Na área de educação, o GRC participa de palestras e seminários em escolas de
 
 <div align="center">
   <image src="https://github.com/Elberto15/Elberto15/blob/main/assets/Adauto%20Bezerra.png" width = "250px"/><image src="https://github.com/Elberto15/Elberto15/blob/main/assets/cesar%20carls.jpeg" width = "500px"/>
-** foto do projeto ou etc
-fotos do cesar carls.
+
 </div >
 
-  
-  <div align="center">
-
-Nossas Plataformas
-
-instagram, linkedin,youtube,site.
+  <h1></h1>
+  <div align="center"
     
   </div>
 
