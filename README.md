@@ -3,7 +3,7 @@
 
   ## O GRC
   
-<image src="https://github.com/Elberto15/Elberto15/blob/main/assets/miss%C3%A3o.jpeg" width = "800px"/>
+<image src="https://github.com/Elberto15/Elberto15/blob/main/assets/miss%C3%A3o.jpeg" width = "500px"/>
 
 
 
