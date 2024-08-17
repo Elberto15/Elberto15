@@ -1,7 +1,7 @@
 
   <div align="left">
 
-  ## O GRC
+  ## O GRC<image src = "https://github.com/Elberto15/Elberto15/blob/main/assets/grc_logo-removebg-preview%20final.png" width ="40px" height = "30px">
   
 <image src="https://github.com/Elberto15/Elberto15/blob/main/assets/miss%C3%A3o.jpeg" width = "900px" height = "600px"/>
 
