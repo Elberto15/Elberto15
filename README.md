@@ -39,7 +39,7 @@ Na área de educação, o GRC participa de palestras e seminários em escolas de
 </div >
 
 <div align="center">
-  <image src="https://github.com/Elberto15/Elberto15/blob/main/assets/Adauto%20Bezerra.png" width = "250px"/><image src="https://github.com/Elberto15/Elberto15/blob/main/assets/cesar%20carls.jpeg" width = "500px"/>
+  <image src="https://github.com/Elberto15/Elberto15/blob/main/assets/Adauto%20Bezerra.png" width = "250px" height = "330px"/><image src="https://github.com/Elberto15/Elberto15/blob/main/assets/cesar%20carls.jpeg" width = "500px" height = "330px"/>
 
 </div >
 
