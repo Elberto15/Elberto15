@@ -32,6 +32,15 @@ Desenvolvemos e integramos circuitos elétricos e eletrônicos e sistemas eletr�
 ### <image src = "https://github.com/Elberto15/Elberto15/blob/main/assets/controle-removebg%20final-preview.png" width ="22px"/> Controle:
 Desenvolvemos softwares de controle dos robôs, incluindo sistemas de controle e firmware. A maioria predominante dos alunos do projeto é da engenharia de computação, portanto, nossa área de software possui expertise em diversas subáreas de atuação, como sistemas de controle, implementação de algoritmos, visão computacional, desenvolvimento de aplicativos para testes, telecomunicações e outras ramificações. Nossa iniciativa apoia o movimento de softwares livres; toda nossa produção de tecnologia foi desenvolvida em softwares open-source ou naqueles que possuem licenças para estudantes.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "40px" height = "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = "40px" height = "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width = "40px" height = "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40px" height = "30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width = "40px" height = "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width = "40px" height = "30px"/>
+          
+
+
 ### <image src = "https://github.com/Elberto15/Elberto15/blob/main/assets/mecanica-removebg%20final%20-preview.png" width = "22px"> Mecânica: 
 Desenvolvemos a estrutura física dos robôs, englobando sistemas mecânicos e simulação. Uma das subáreas do nosso projeto é a mecânica, cuja responsabilidade é o desenvolvimento de modelos CAD (Computer-Aided Design). Após a finalização do projeto CAD, fazemos uso de impressoras 3D para transformar nossas ideias em protótipos físicos. Esse método mais computacional de desenvolvimento proporciona grande facilidade no momento das montagens, uma vez que todos os furos e encaixes já foram planejados para estarem no lugar certo.
 
